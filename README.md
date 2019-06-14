@@ -1,7 +1,7 @@
 # MathmdEditor
 
 
-[Demo](https://github.com/shubhvjain/mathMDEditor)
+[Demo](https://shubhvjain.github.io/mathMDEditor)
 
 
 Markdown editor with math support.
