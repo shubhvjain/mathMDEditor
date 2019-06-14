@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { MarkdownModule } from 'ngx-markdown';
 import { AppComponent } from './app.component';
 import { MathmdComponent } from './mathmd/mathmd.component';
+import { CodemirrorModule } from '@ctrl/ngx-codemirror';
 
 @NgModule({
   declarations: [
@@ -12,8 +13,9 @@ import { MathmdComponent } from './mathmd/mathmd.component';
   ],
   imports: [
     BrowserModule,
-    FormsModule,
-    MarkdownModule.forRoot()
+    FormsModule, 
+    MarkdownModule.forRoot(),
+    CodemirrorModule
   ],
   providers: [],
   bootstrap: [AppComponent]

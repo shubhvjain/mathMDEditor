@@ -20,6 +20,8 @@
     "@angular/platform-browser": "^6.0.3",
     "@angular/platform-browser-dynamic": "^6.0.3",
     "@angular/router": "^6.0.3",
+    "@ctrl/ngx-codemirror": "2.0.0",
+    "codemirror": "5.47.0",
     "core-js": "^2.5.4",
     "ngx-markdown": "8.0.2",
     "rxjs": "6.0.0",

@@ -1,0 +1,10 @@
+.CodeMirror {
+    border: 1px solid #eee;
+    height: 100% !important;
+  }
+  .CodeMirror-scroll {
+    overflow-y: hidden;
+    overflow-x: auto;
+  }
+  
+  
